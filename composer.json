@@ -14,6 +14,6 @@
             "email": "47715633+gohostie@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "v1.0.0",
+    "minimum-stability": "stable",
     "require": {}
 }
