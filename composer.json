@@ -15,9 +15,5 @@
         }
     ],
     "minimum-stability": "v1.0.0",
-    "repositories": [
-        {"type": "git", "url": "https://git@github.com:gohostie/cidefault.git"},
-        {"packagist.org": false}
-    ],
     "require": {}
 }
