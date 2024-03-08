@@ -14,7 +14,7 @@
             "email": "47715633+gohostie@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "1.0.0",
+    "minimum-stability": "v1.0.0",
     "repositories": [
         {"type": "git", "url": "https://git@github.com:gohostie/cidefault.git"},
         {"packagist.org": false}
