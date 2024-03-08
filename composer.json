@@ -1,22 +1,19 @@
 {
-    "name": "gohostie/my-account",
-    "description": "User Account",
-    "type": "project",
+    "name": "gohostie/cidefault",
+    "description": "ci default",
+    "type": "library",
+    "license": "mit",
     "autoload": {
         "psr-4": {
-            "Gohostie\\MyAccount\\": "src/"
+            "Gohostie\\Cidefault\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "stephen davies"
+            "name": "gohostie",
+            "email": "47715633+gohostie@users.noreply.github.com"
         }
     ],
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "config": {
-        "allow-plugins": {
-            "phpstan/extension-installer": true
-        }
-    },
+    "require": {}
 }
