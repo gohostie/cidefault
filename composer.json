@@ -1,0 +1,22 @@
+{
+    "name": "gohostie/my-account",
+    "description": "User Account",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gohostie\\MyAccount\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "stephen davies"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    },
+}
